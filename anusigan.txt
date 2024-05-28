@@ -1,0 +1,7 @@
+80000,salary,income,2024-03-01
+2500,food,expense,2024-03-05
+10000,shopping,expense,2024-03-10
+5000,shopping,expense,2024-03-15
+15000,rent,expns,2024-03-20
+4000,house,income,2024/08
+3000,expense,2024-04-10
